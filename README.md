@@ -1,1 +1,1 @@
-# CreditHub
+# SimpleSSO
